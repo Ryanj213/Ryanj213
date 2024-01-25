@@ -1,1 +1,1 @@
-Hi, I'm Ryan an IT Professional.
+Hi, I'm Ryan, an IT Professional.
