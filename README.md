@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ryan, an <a https://www.linkedin.com/in/ryan-johnson-02317281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeFn5KQQbT6CJ5rEb1Exqnw%3D%3D>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
